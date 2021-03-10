@@ -1,0 +1,40 @@
+---
+template_variables:
+  book_title: VMware Tanzu Observability by Wavefront Nozzle Documentation
+  book_title_short: VMware Tanzu Observability Docs
+  title: <span class="title-deemph">VMware Tanzu Observability by Wavefront Nozzle</span> Documentation
+  title_image: images/icon-p-green.jpg
+  hero_text: "Detailed documentation to help you install, understand, and succeed with VMware Tanzu Observability by Wavefront Nozzle."
+  platform_code: PCF
+  product_name_lc: pcf
+
+  # VMware Tanzu Observability by Wavefront Nozzle Variables
+
+  product_full: VMware Tanzu Observability by Wavefront Nozzle
+  product_short: Wavefront Nozzle
+
+  app_runtime_full: VMware Tanzu Application Service for VMs
+  app_runtime_abbr: TAS for VMs
+
+  k8s_runtime_full: Tanzu Kubernetes Grid Integrated Edition
+  k8s_runtime_abbr: TKGI
+
+  windows_runtime_full: VMware Tanzu Application Service for VMs &#91;Windows&#93;
+  windows_runtime_abbr: TAS &#91;Windows&#93;
+
+  segment_runtime_full: Isolation Segment
+
+  ops_manager: Ops Manager
+
+  product_network: VMware Tanzu Network
+
+  # Other variables
+  product_url: https://network.pivotal.io/products/pivotal-cf
+  product_link: <div class="header-item"><a href="https://network.pivotal.io/products/VMware Tanzu-cf">Back to Product Page</a></div>
+  support_link: <a href="https://tanzu.vmware.com/support" target="_blank">Support</a>
+  support_call_to_action: <a href="https://tanzu.vmware.com/support" target="_blank">Need Support?</a>
+  support_url: https://tanzu.vmware.com/support
+
+  gtm_account_id: GTM-MW4LZHR
+
+  use_global_header: true
