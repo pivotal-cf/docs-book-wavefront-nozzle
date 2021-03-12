@@ -1,6 +1,6 @@
 book_repo: pivotal-cf/docs-book-wavefront-nozzle
 layout_repo: pivotal-cf/docs-layout-repo
-layout_repo_ref: "edge"
+layout_repo_ref: "master"
 
 feedback_enabled: true
 
@@ -15,18 +15,18 @@ sections:
 - repository:
     name: pivotal-cf/docs-wavefront-nozzle
     at_path: docs-content
-    ref: "master"
-  directory: wavefront-nozzle/3-n
+    ref: "2.x"
+  directory: wavefront-nozzle/2-x
   subnav_template: wavefront-nozzle_subnav.erb
 
   product_info:
     use_local_header: true
     latest_stable_version: 3.0.0
-    changelog_href: https://docs-pcf-staging.sc2-04-pcf1-apps.oc.vmware.com/wavefront-nozzle/3-n/release-notes.html
+    changelog_href: https://docs-pcf-staging.sc2-04-pcf1-apps.oc.vmware.com/wavefront-nozzle/2-x/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: VMware Tanzu Observability by Wavefront Nozzle
-    search_placeholder: VMware Tanzu Observability by Wavefront Nozzle 3.1
-    url_prefix: /wavefront-nozzle/3-n
-    local_product_version: "3.1"
+    search_placeholder: VMware Tanzu Observability by Wavefront Nozzle 2.x
+    url_prefix: /wavefront-nozzle/2-x
+    local_product_version: "2.x"
     local_header_links: []
     local_header_version_list:
