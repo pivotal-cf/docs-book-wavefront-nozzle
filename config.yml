@@ -26,7 +26,9 @@ sections:
     local_header_img: /images/cloud_rings.png
     local_header_title: VMware Tanzu Observability by Wavefront Nozzle
     search_placeholder: VMware Tanzu Observability by Wavefront Nozzle 2.x
-    url_prefix: /wavefront-nozzle/2-x
+    url_prefix: wavefront-nozzle/2-x
     local_product_version: "2.x"
     local_header_links: []
     local_header_version_list:
+      - url_prefix: http://docs.pivotal.io/wavefront-nozzle/3-x
+        display_name: v3.x
