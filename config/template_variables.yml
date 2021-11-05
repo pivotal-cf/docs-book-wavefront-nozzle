@@ -35,6 +35,6 @@ template_variables:
   support_call_to_action: <a href="https://tanzu.vmware.com/support" target="_blank">Need Support?</a>
   support_url: https://tanzu.vmware.com/support
 
-  gtm_account_id: GTM-MW4LZHR
+  gtm_account_id: GTM-MM86KCJ
 
   use_global_header: true
