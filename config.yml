@@ -30,7 +30,7 @@ sections:
     local_product_version: "3.x"
     local_header_links: []
     local_header_version_list:
-      - url_prefix: http://docs.pivotal.io/wavefront-nozzle/3-x/wavefront-docs
+      - url_prefix: http://docs.pivotal.io/wavefront-nozzle/3-x/wavefront-docs.html
         display_name: v4.x
       - url_prefix: http://docs.pivotal.io/wavefront-nozzle/2-x
         display_name: v2.x
