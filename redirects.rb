@@ -4,6 +4,5 @@ r301 %r{.*}, 'https://docs.pivotal.io$&', :if => Proc.new { |rack_env|
 }
 
 # r301 %r{/wavefront-nozzle/(?![\d-]+)(.*)}, '/wavefront-nozzle/3-n/$1'
-r301 %r{/wavefront-nozzle/4-x/}, "/wavefront-nozzle/3-x/wavefront-docs.html"
 r301 %r{/wavefront-nozzle/4-x/(.*)}, "/wavefront-nozzle/3-x/wavefront-docs.html"
 r301 %r{/wavefront-nozzle/2-x/wavefront-docs.html}, "/wavefront-nozzle/3-x/wavefront-docs.html"
